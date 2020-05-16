@@ -3,7 +3,7 @@
 To obtain one of these EXtreme weapons, simply type **!exrand** or **/exrand**. However, there could only be one using it at a time so it's a first-come, first-served basis. If you are from the Blu Team in MvM, you will not receive these EXtreme weapons. All of these weapons can be used by any class.
  
 # Commands
-- **sm_exrand** - Give that person a random EX weapon.
+- **sm_exrand** - Give the user a random EX weapon.
 
 # Admin commands
 - **sm_exrand_reload** - Reload config for EXRand.
